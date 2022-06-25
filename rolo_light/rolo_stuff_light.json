@@ -2,7 +2,8 @@
     "manifest": {
         "author": "Gilgames#0032",
         "version": "1.0.0",
-        "name": "rolo_stuff_light"
+        "name": "rolo_stuff_light",
+        "updater": "https:\/\/github.com\/Gilgames32\/aliuwucord\/tree\/main\/rolo_light\/rolo_stuff_light.json"
     },
     "background": {
         "overlay_alpha": 0,
