@@ -1,0 +1,22 @@
+{
+    "manifest": {
+        "author": "Gilgames#0032",
+        "name": "rolo_stuff_dark",
+        "version": "1.0.0"
+    },
+    "background": {
+        "overlay_alpha": 128,
+        "url": "https:\/\/github.com\/Gilgames32\/aliuwucord\/blob\/main\/rolo_dark\/rolo_galaxy_darker.png?raw=true"
+    },
+    "fonts": {},
+    "simple_colors": {
+        "accent": -5232245,
+        "background": -15461867,
+        "background_secondary": -16777216,
+        "mention_highlight": -11529923,
+        "active_channel": -14151648
+    },
+    "colors": {},
+    "drawable_tints": {},
+    "raws": {}
+}
