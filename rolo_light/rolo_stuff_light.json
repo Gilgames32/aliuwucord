@@ -1,0 +1,23 @@
+{
+    "manifest": {
+        "author": "Gilgames#0032",
+        "version": "1.0.0",
+        "name": "rolo_stuff_light"
+    },
+    "background": {
+        "overlay_alpha": 0,
+        "url": "https:\/\/github.com\/Gilgames32\/aliuwucord\/blob\/main\/rolo_light\/rolo_chillin_evenbrighter.png?raw=true"
+    },
+    "fonts": {},
+    "simple_colors": {
+        "accent": -12679881,
+        "active_channel": -1137008,
+        "mention_highlight": -735357,
+        "background": -198420,
+        "background_secondary": -735357,
+        "statusbar": -1137008
+    },
+    "colors": {},
+    "drawable_tints": {},
+    "raws": {}
+}
