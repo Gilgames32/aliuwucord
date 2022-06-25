@@ -2,7 +2,8 @@
     "manifest": {
         "author": "Gilgames#0032",
         "name": "rolo_stuff_dark",
-        "version": "1.0.0"
+        "version": "1.0.0",
+        "updater": "https:\/\/github.com\/Gilgames32\/aliuwucord\/tree\/main\/rolo_dark"
     },
     "background": {
         "overlay_alpha": 128,
